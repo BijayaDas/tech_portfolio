@@ -1209,6 +1209,8 @@ p.extend-details {
 .title-wk {
     text-align: center;
     font-size: 34px;
+    display: inline-block;
+    margin-left: 33%;
     color: #ddd;
     font-weight: 300;
     padding: 10px;
@@ -1852,7 +1854,7 @@ h1.jprt-item-title {
 
 .full-download {
     /*margin-top: 100px;*/
-    background-color: #31708f;
+    background-color: #b93366;
     padding-top: 0px;
     padding-bottom: 0px
 }
@@ -1889,9 +1891,9 @@ h1.jprt-item-title {
 .social-ink:hover {
     float: left;
     padding: 20px;
-    background-color: #2D373D;
+    background-color: #04adc8;
     border-radius: 50%;
-    border: 2px solid rgba(44, 49, 58, 1);
+    border: 2px solid rgba(63, 190, 210, 1);
     margin-left: 10px;
     -webkit-transition: all .3s;
     transition: all .3s
@@ -2501,9 +2503,9 @@ h1.jprt-item-title {
     .social-ink:hover {
         float: none;
         padding: 20px;
-        background-color: #2D373D;
+        background-color: #04adc8;
         border-radius: 50%;
-        border: 2px solid rgba(44, 49, 58, 1);
+        border: 2px solid rgba(63, 190, 210, 1);
         margin-left: 10px;
         -webkit-transition: all .3s;
         transition: all .3s
@@ -2566,9 +2568,9 @@ h1.jprt-item-title {
     .social-ink:hover {
         float: none;
         padding: 20px;
-        background-color: #2D373D;
+        background-color: #04adc8;
         border-radius: 50%;
-        border: 2px solid rgba(44, 49, 58, 1);
+        border: 2px solid rgba(63, 190, 210, 1);
         margin-left: 10px;
         -webkit-transition: all .3s;
         transition: all .3s
